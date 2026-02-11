@@ -1,2 +1,4 @@
-# arduino_troll
-arduino teeb nalja minuga ja teistega loodan et see trall saab labi. Palun aidake mind arduino jumalad
+# Mikrokontrollerid ja robootika
+
+Siin tuleb siis kõik minu arduino koodid, pildid ja videod.
+:D
