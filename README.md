@@ -1,7 +1,7 @@
 # 🤖 Arduino kasutamine ja õppimine  
 ### Repository: arduino_troll
 
-See repository sisaldab kõiki minu Arduino projekte, mida olen teinud Tinkercadis ning programmeerinud C++ keeles.  
+See repository sisaldab kõiki minu Arduino projekte, mida olen teinud Tinkercadis.
 
 Projekti eesmärk on õppida Arduino kasutamist, mõista mikrokontrollerite tööpõhimõtteid ning arendada C++ programmeerimisoskust.
 
@@ -11,19 +11,8 @@ Projekti eesmärk on õppida Arduino kasutamist, mõista mikrokontrollerite tö�
 
 Repository sisaldab erinevaid harjutusi ja katseid, mis on salvestatud eraldi failidena:
 
-- projekt01.c++
-- projekt02.c++
-- projekt03.c++
-- projekt04.c++
-- projekt05.c++
-- projekt06.c++
-- projekt07.c++
-- projekt08.c++
-- projekt09.c++
-- projekt10.c++
-- projekt11.c++
-- projekt12.c++
-
+- projekt01 kuni projekt12
+  
 Iga fail on iseseisev Arduino programm.
 
 ---
@@ -32,9 +21,44 @@ Iga fail on iseseisev Arduino programm.
 
 - Arduino  
 - C++  
-- Tinkercad Circuits  
+- Tinkercad
+
 
 ---
 
-## 📂 Failistruktuur
+## 🖼️ Pildid
 
+Siia lisan tulevikus projektide pildid.
+
+Näide pildi lisamisest:
+
+
+---
+
+## 🎥 Videod
+
+Siia lisan tulevikus videod projektide töötamisest.
+
+Näide videolingist:
+
+
+---
+
+## 🎯 Eesmärk
+
+- Õppida Arduino programmeerimist  
+- Harjutada C++ kasutamist  
+- Mõista elektroonika põhialuseid  
+- Katsetada erinevaid komponente (LED, nupud, andurid jne)
+
+---
+
+## 👤 Autor
+
+nfinity2  
+
+---
+
+## 📜 Litsents
+
+See projekt on hariduslikul eesmärgil loodud.
