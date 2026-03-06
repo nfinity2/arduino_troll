@@ -11,7 +11,18 @@ Projekti eesmärk on õppida Arduino kasutamist, mõista mikrokontrollerite tö�
 
 Repository sisaldab erinevaid harjutusi ja katseid, mis on salvestatud eraldi failidena:
 
-- projekt01 kuni projekt12
+- projekt 01
+- projekt 02
+- projekt 03
+- projekt 04
+- projekt 05
+- projekt 06
+- projekt 07
+- projekt 08
+- projekt 09
+- projekt 10
+- projekt 11
+- projekt 12
   
 Iga fail on iseseisev Arduino programm.
 
