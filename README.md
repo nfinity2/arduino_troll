@@ -20,11 +20,9 @@ Repository sisaldab erinevaid harjutusi ja katseid, mis on salvestatud eraldi fa
 - projekt 07 ✅
 - projekt 08 ✅
 - projekt 09 ✅
-- projekt 10
-- projekt 11
-- projekt 12
-  
-Iga fail on iseseisev Arduino programm.
+- projekt 10 ✅
+- projekt 11 ✅
+- projekt 12 ✅
 
 ---
 
@@ -41,16 +39,12 @@ Iga fail on iseseisev Arduino programm.
 
 Siia lisan tulevikus projektide pildid.
 
-Näide pildi lisamisest:
-
 
 ---
 
 ## 🎥 Videod
 
-Siia lisan tulevikus videod projektide töötamisest.
-
-Näide videolingist:
+Siia lisan tulevikus videod projektide töötamisest
 
 
 ---
