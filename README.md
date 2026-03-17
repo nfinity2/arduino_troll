@@ -31,15 +31,7 @@ Repository sisaldab erinevaid harjutusi ja katseid, mis on salvestatud eraldi fa
 - Arduino  
 - C++  
 - Tinkercad
-
-
----
-
-## 🖼️ Pildid
-
-Siia lisan tulevikus projektide pildid.
-
-
+  
 ---
 
 ## 🎥 Videod
