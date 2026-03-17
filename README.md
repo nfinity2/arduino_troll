@@ -44,7 +44,15 @@ Siia lisan tulevikus projektide pildid.
 
 ## 🎥 Videod
 
-Siia lisan tulevikus videod projektide töötamisest
+- Projekt 01 ✅
+
+https://github.com/user-attachments/assets/0feb193a-dcbb-43f6-91cc-f0c240bad629
+
+- Projekt 02 ✅
+https://github.com/user-attachments/assets/6ea09435-e751-46ab-b887-3ef7fcb4cbc3
+
+- Projekt 03 ✅
+https://github.com/user-attachments/assets/b4974c94-d88b-4d67-a86c-49af7ce3d3fc
 
 
 ---
