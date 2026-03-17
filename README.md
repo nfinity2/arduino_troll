@@ -94,24 +94,9 @@ https://github.com/user-attachments/assets/a7989114-a445-4162-9fcb-28f1cd826485
 
 ---
 
-
-
-
 ## 🎯 Eesmärk
 
 - Õppida Arduino programmeerimist  
 - Harjutada C++ kasutamist  
 - Mõista elektroonika põhialuseid  
 - Katsetada erinevaid komponente (LED, nupud, andurid jne)
-
----
-
-## 👤 Autor
-
-nfinity2  
-
----
-
-## 📜 Litsents
-
-See projekt on hariduslikul eesmärgil loodud.
