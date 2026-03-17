@@ -49,13 +49,53 @@ Siia lisan tulevikus projektide pildid.
 https://github.com/user-attachments/assets/0feb193a-dcbb-43f6-91cc-f0c240bad629
 
 - Projekt 02 ✅
+  
 https://github.com/user-attachments/assets/6ea09435-e751-46ab-b887-3ef7fcb4cbc3
 
 - Projekt 03 ✅
+  
 https://github.com/user-attachments/assets/b4974c94-d88b-4d67-a86c-49af7ce3d3fc
 
+- Projekt 04 ✅
+  
+https://github.com/user-attachments/assets/3b627096-cfdc-4c75-9d49-72854f29cdaf
+
+- Projekt 05 ✅
+
+https://github.com/user-attachments/assets/9969bf0b-3b51-4743-844f-c99a8b10ac2a
+
+- Projekt 06 ✅
+
+https://github.com/user-attachments/assets/366ec3ea-d577-4b92-9c9d-817b6820e9e7
+
+- Projekt 07 ✅
+
+https://github.com/user-attachments/assets/b0080d39-0be0-47a4-8b54-cb9aa61cb8bc
+
+- Projekt 08 ✅
+
+https://github.com/user-attachments/assets/ae92a50e-c124-4d83-b59c-bd8bd3f685ec
+
+- Projekt 09 ✅
+
+https://github.com/user-attachments/assets/bf28018c-aeb6-4b86-adb1-08d3b2311bc0
+
+- Projekt 10 ✅
+
+https://github.com/user-attachments/assets/516caf1f-1c2f-4eaf-bd3c-8f674d8ca422
+
+- Projekt 11 ✅
+
+https://github.com/user-attachments/assets/928a645c-c921-46fa-90ae-289113e63678
+
+- Projekt 12 ✅
+
+https://github.com/user-attachments/assets/a7989114-a445-4162-9fcb-28f1cd826485
 
 ---
+
+
+
 
 ## 🎯 Eesmärk
 
